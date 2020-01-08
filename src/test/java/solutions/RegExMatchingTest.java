@@ -6,7 +6,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DynamicTest;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestFactory;
 
 import java.util.ArrayList;
@@ -37,11 +36,13 @@ class RegExMatchingTest {
     }
 
     @TestFactory
-    public Stream<DynamicTest> translateDynamicTestsFromIterator() {
+    public Stream<DynamicTest> testPatterns() {
         return testData.stream()
-            .map(data -> DynamicTest.dynamicTest(String.format(" Check if input: \"%s\"; matches: %s pattern: ", data.getInput(), data.getPattern()), () -> {
-                                                     assertEquals(data.isMatching(), solution.isMatch(data.getInput(), data.getPattern()));
-                                                 }
+            .map(data -> DynamicTest.dynamicTest(
+                String.format(" Check if input: \"%s\"; matches: %s pattern: ", data.getInput(), data.getPattern()),
+                () -> {
+                    assertEquals(data.isMatching(), solution.isMatch(data.getInput(), data.getPattern()));
+                }
             ));
     }
 }
@@ -50,6 +51,7 @@ class RegExMatchingTest {
 @Data
 @AllArgsConstructor
 class RegExTestData {
+
     private String input;
     private String pattern;
     private boolean isMatching;
