@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/hamming_distance_461/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/hamming_distance_461/task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/restore_ip_address_93/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/restore_ip_address_93/task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/hamming_distance_461/SolutionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/restore_ip_address_93/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/MyQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Atoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Atoi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/MedianOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/MedianOfTwoArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/RegExMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/RegExMatching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/ReverseInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/ZigZagConvertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/ZigZagConvertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/AtoiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/AtoiTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/LongestSubstringWithoutRepeatingCharactersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/LongestSubstringWithoutRepeatingCharactersTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/MedianOfTwoArraysTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/MedianOfTwoArraysTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/RegExMatchingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/RegExMatchingTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/RegExTestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/RegExTestData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/ReverseIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/ReverseIntegerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/TestData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/ZigZagConvertionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/ZigZagConvertionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/Atoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/Atoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/MedianOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/MedianOfTwoArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,30 +54,36 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1TFCIweLvsj9Xv7VSrE9u4OW96U" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -105,6 +115,17 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.SolutionTest.restoreIpAddresses">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContainerWithMostWaterTest.maxArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-problems" />
       <extension name="coverage">
@@ -194,19 +215,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-    <option name="showServicesTree" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -224,6 +233,7 @@
       <workItem from="1576757560342" duration="8998000" />
       <workItem from="1578489986802" duration="3347000" />
       <workItem from="1597046283240" duration="7421000" />
+      <workItem from="1603502808251" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -236,7 +246,18 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="regex problem started" />
@@ -295,6 +316,10 @@
       <screen x="0" y="23" width="2560" height="992" />
     </state>
     <state x="1028" y="269" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2560.992@0.23.2560.992" timestamp="1597055397360" />
+    <state x="418" y="191" width="604" height="490" key="find.popup" timestamp="1603503004072">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="418" y="191" width="604" height="490" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1603503004072" />
     <state x="945" y="242" width="670" height="676" key="search.everywhere.popup" timestamp="1597047965601">
       <screen x="0" y="23" width="2560" height="992" />
     </state>
@@ -305,7 +330,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/solutions/MedianOfTwoArrays.java</url>
-          <line>7</line>
+          <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
