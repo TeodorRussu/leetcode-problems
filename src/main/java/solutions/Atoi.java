@@ -14,24 +14,24 @@ public class Atoi {
         long number = 0;
 
         if (str.startsWith("-") || str.startsWith("+")) {
-            positive = str.startsWith("-") ? false: true;
+            positive = !str.startsWith("-");
             str = str.substring(1);
         }
 
         for (int i = 0; i < str.length(); i++) {
             char charAtIndex = str.charAt(i);
-            if(charAtIndex < '0' || charAtIndex > '9'){
+            if (charAtIndex < '0' || charAtIndex > '9') {
                 break;
             }
-            number = number * 10l + (long)(charAtIndex - '0');
+            number = number * 10l + (long) (charAtIndex - '0');
 
-            if (number > (long) Integer.MAX_VALUE){
+            if (number > (long) Integer.MAX_VALUE) {
                 if (positive)
-                return Integer.MAX_VALUE;
+                    return Integer.MAX_VALUE;
                 return Integer.MIN_VALUE;
             }
         }
         number = positive ? number : -1 * number;
-        return (int)number;
+        return (int) number;
     }
 }
