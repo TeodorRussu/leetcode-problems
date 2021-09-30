@@ -23,11 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/RemoveDuplicatesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/Atoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/Atoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/MedianOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/MedianOfTwoArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +53,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -67,13 +66,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1TFCIweLvsj9Xv7VSrE9u4OW96U" />
   <component name="ProjectViewState">
@@ -115,13 +107,15 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.SolutionTest.restoreIpAddresses">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -234,6 +228,7 @@
       <workItem from="1578489986802" duration="3347000" />
       <workItem from="1597046283240" duration="7421000" />
       <workItem from="1603502808251" duration="306000" />
+      <workItem from="1632558592376" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -258,72 +253,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="regex problem started" />
     <option name="LAST_COMMIT_MESSAGE" value="regex problem started" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1023" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597046867033">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state x="1023" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.23.2560.992@0.23.2560.992" timestamp="1597046867033" />
-    <state width="436" height="466" key="DebuggerActiveHint" timestamp="1597063228834">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="436" height="466" key="DebuggerActiveHint/0.23.2560.992@0.23.2560.992" timestamp="1597063228834" />
-    <state width="1238" height="214" key="GridCell.Tab.0.bottom" timestamp="1597063374805">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.0.bottom/0.23.2560.992@0.23.2560.992" timestamp="1597063374805" />
-    <state width="1238" height="214" key="GridCell.Tab.0.center" timestamp="1597063374804">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.0.center/0.23.2560.992@0.23.2560.992" timestamp="1597063374804" />
-    <state width="1238" height="214" key="GridCell.Tab.0.left" timestamp="1597063374803">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.0.left/0.23.2560.992@0.23.2560.992" timestamp="1597063374803" />
-    <state width="1238" height="214" key="GridCell.Tab.0.right" timestamp="1597063374804">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.0.right/0.23.2560.992@0.23.2560.992" timestamp="1597063374804" />
-    <state width="1238" height="214" key="GridCell.Tab.1.bottom" timestamp="1597063374807">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.1.bottom/0.23.2560.992@0.23.2560.992" timestamp="1597063374807" />
-    <state width="1238" height="214" key="GridCell.Tab.1.center" timestamp="1597063374806">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.1.center/0.23.2560.992@0.23.2560.992" timestamp="1597063374806" />
-    <state width="1238" height="214" key="GridCell.Tab.1.left" timestamp="1597063374806">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.1.left/0.23.2560.992@0.23.2560.992" timestamp="1597063374806" />
-    <state width="1238" height="214" key="GridCell.Tab.1.right" timestamp="1597063374806">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state width="1238" height="214" key="GridCell.Tab.1.right/0.23.2560.992@0.23.2560.992" timestamp="1597063374806" />
-    <state x="789" y="158" key="SettingsEditor" timestamp="1597048149861">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state x="789" y="158" key="SettingsEditor/0.23.2560.992@0.23.2560.992" timestamp="1597048149861" />
-    <state x="936" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1597046284216">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state x="936" y="353" key="com.intellij.ide.util.TipDialog/0.23.2560.992@0.23.2560.992" timestamp="1597046284216" />
-    <state x="1028" y="269" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597055397360">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state x="1028" y="269" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.2560.992@0.23.2560.992" timestamp="1597055397360" />
-    <state x="418" y="191" width="604" height="490" key="find.popup" timestamp="1603503004072">
-      <screen x="0" y="23" width="1440" height="827" />
-    </state>
-    <state x="418" y="191" width="604" height="490" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1603503004072" />
-    <state x="945" y="242" width="670" height="676" key="search.everywhere.popup" timestamp="1597047965601">
-      <screen x="0" y="23" width="2560" height="992" />
-    </state>
-    <state x="945" y="242" width="670" height="676" key="search.everywhere.popup/0.23.2560.992@0.23.2560.992" timestamp="1597047965601" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
