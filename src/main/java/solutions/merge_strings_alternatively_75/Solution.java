@@ -4,30 +4,18 @@ class Solution {
     public String mergeAlternately(String word1, String word2) {
 
         StringBuilder output = new StringBuilder();
-        boolean w1Finished = false;
-        boolean w2Finished = false;
+        int i = 0;
+        int j = 0;
 
-        for (int i = 0; i < 100; i++) {
-            char word1CurrentCharacter;
-            char word2CurrentCharacter;
-
-            if (!w1Finished) {
-                try {
-                    word1CurrentCharacter = word1.charAt(i);
-                    output.append(word1CurrentCharacter);
-                } catch (StringIndexOutOfBoundsException e) {
-                    w1Finished = true;
-                }
+        while (i < word1.length() || j < word2.length()) {
+            if (i < word1.length()) {
+                output.append(word1.charAt(i));
+                i++;
             }
-            if (!w2Finished) {
-                try {
-                    word2CurrentCharacter = word2.charAt(i);
-                    output.append(word2CurrentCharacter);
-                } catch (StringIndexOutOfBoundsException e) {
-                    w2Finished = true;
-                }
+            if (j < word2.length()) {
+                output.append(word2.charAt(j));
+                j++;
             }
-            if (w1Finished && w2Finished) break;
         }
         return output.toString().trim();
     }

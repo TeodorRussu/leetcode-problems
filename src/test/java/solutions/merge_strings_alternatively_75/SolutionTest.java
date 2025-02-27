@@ -15,6 +15,7 @@ class SolutionTest {
 
     @Test
     void mergeAlternately() {
+
         String expected = solution.mergeAlternately("abc", "pqrst");
         assertEquals("apbqcrst", expected);
     }
