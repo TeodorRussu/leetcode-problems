@@ -22,13 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/numbers_division/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/numbers_division/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="solution 75">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/move_seroes_283/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/move_seroes_283/SolutionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Atoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Atoi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/MedianOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/MedianOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/numbers_division/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/numbers_division/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +54,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="TeodorRussu &lt;teodor_russu@yahoo.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -72,9 +76,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="1TFCIweLvsj9Xv7VSrE9u4OW96U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -83,20 +87,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.SolutionTest.moveZeroes.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.google.cloudcode.ide_session_index": "20250228_0001",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/teodor.russu/leetcode-problems/src/test/java/solutions",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/solutions" />
+      <recent name="$PROJECT_DIR$/src/main/java/solutions" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -108,14 +125,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="solutions.move_seroes_283" />
       <recent name="solutions.numbers_division" />
       <recent name="solutions.restore_ip_address_93" />
       <recent name="solutions.hamming_distance_461" />
       <recent name="solutions" />
-      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.testSolutionUnique">
+  <component name="RunManager" selected="JUnit.SolutionTest.moveZeroes">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -129,17 +146,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.restoreIpAddresses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-problems" />
+    <configuration name="SolutionTest.moveZeroes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algoritmica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solutions.restore_ip_address_93.*" />
+          <option name="PATTERN" value="solutions.move_seroes_283.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="solutions.restore_ip_address_93" />
-      <option name="MAIN_CLASS_NAME" value="solutions.restore_ip_address_93.SolutionTest" />
-      <option name="METHOD_NAME" value="restoreIpAddresses" />
+      <option name="PACKAGE_NAME" value="solutions.move_seroes_283" />
+      <option name="MAIN_CLASS_NAME" value="solutions.move_seroes_283.SolutionTest" />
+      <option name="METHOD_NAME" value="moveZeroes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -211,13 +228,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.moveZeroes" />
         <item itemvalue="JUnit.SolutionTest.testSolutionUnique" />
         <item itemvalue="JUnit.SolutionTest.testSolutionHappyNumber" />
         <item itemvalue="JUnit.SolutionTest.testDivideWithValidInputs" />
         <item itemvalue="JUnit.SolutionTest.testSolution" />
-        <item itemvalue="JUnit.SolutionTest.restoreIpAddresses" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -240,6 +265,8 @@
       <workItem from="1603502808251" duration="306000" />
       <workItem from="1632558592376" duration="349000" />
       <workItem from="1696533354956" duration="9639000" />
+      <workItem from="1740654845248" duration="4799000" />
+      <workItem from="1740763856703" duration="1155000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -248,7 +275,31 @@
       <option name="project" value="LOCAL" />
       <updated>1576770947491</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="solution 75">
+      <option name="closed" value="true" />
+      <created>1740654914297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740654914297</updated>
+    </task>
+    <task id="LOCAL-00003" summary="solution 75">
+      <option name="closed" value="true" />
+      <created>1740654957198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740654957198</updated>
+    </task>
+    <task id="LOCAL-00004" summary="solution 75">
+      <option name="closed" value="true" />
+      <created>1740761042144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740761042144</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +318,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="regex problem started" />
-    <option name="LAST_COMMIT_MESSAGE" value="regex problem started" />
+    <MESSAGE value="solution 75" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 75" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
