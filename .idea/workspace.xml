@@ -22,12 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="solution 75">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/move_seroes_283/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/move_seroes_283/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="solution 283">
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/merge_intervals_56/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/solutions/numbers_division/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/numbers_division/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/move_zeroes_283/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/move_zeroes_283/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +86,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.SolutionTest.merge (1).executor": "Debug",
+    "JUnit.SolutionTest.merge.executor": "Debug",
     "JUnit.SolutionTest.moveZeroes.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -94,7 +95,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250228_0001",
+    "com.google.cloudcode.ide_session_index": "20250301_0001",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
@@ -125,14 +126,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="solutions.merge_intervals_56" />
       <recent name="solutions.move_seroes_283" />
       <recent name="solutions.numbers_division" />
       <recent name="solutions.restore_ip_address_93" />
       <recent name="solutions.hamming_distance_461" />
-      <recent name="solutions" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.moveZeroes">
+  <component name="RunManager" selected="JUnit.SolutionTest.merge (1)">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -146,49 +147,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest.merge (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algoritmica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.merge_intervals_56.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="solutions.merge_intervals_56" />
+      <option name="MAIN_CLASS_NAME" value="solutions.merge_intervals_56.SolutionTest" />
+      <option name="METHOD_NAME" value="merge(int[][],int[][])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.merge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algoritmica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.merge_intervals_56.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="solutions.merge_intervals_56" />
+      <option name="MAIN_CLASS_NAME" value="solutions.merge_intervals_56.SolutionTest" />
+      <option name="METHOD_NAME" value="merge" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionTest.moveZeroes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-algoritmica" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="solutions.move_seroes_283.*" />
+          <option name="PATTERN" value="solutions.move_zeroes_283.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="solutions.move_seroes_283" />
-      <option name="MAIN_CLASS_NAME" value="solutions.move_seroes_283.SolutionTest" />
+      <option name="MAIN_CLASS_NAME" value="solutions.move_zeroes_283.SolutionTest" />
       <option name="METHOD_NAME" value="moveZeroes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.testDivideWithValidInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-algoritmica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solutions.numbers_division.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="solutions.numbers_division" />
-      <option name="MAIN_CLASS_NAME" value="solutions.numbers_division.SolutionTest" />
-      <option name="METHOD_NAME" value="testDivideWithValidInputs(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.testSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-algoritmica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solutions.numbers_division.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="solutions.numbers_division" />
-      <option name="MAIN_CLASS_NAME" value="solutions.numbers_division.SolutionTest" />
-      <option name="METHOD_NAME" value="testSolution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -228,19 +229,19 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.merge (1)" />
+        <item itemvalue="JUnit.SolutionTest.merge" />
         <item itemvalue="JUnit.SolutionTest.moveZeroes" />
         <item itemvalue="JUnit.SolutionTest.testSolutionUnique" />
         <item itemvalue="JUnit.SolutionTest.testSolutionHappyNumber" />
-        <item itemvalue="JUnit.SolutionTest.testDivideWithValidInputs" />
-        <item itemvalue="JUnit.SolutionTest.testSolution" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
       </set>
     </attachedChunks>
   </component>
@@ -266,7 +267,8 @@
       <workItem from="1632558592376" duration="349000" />
       <workItem from="1696533354956" duration="9639000" />
       <workItem from="1740654845248" duration="4799000" />
-      <workItem from="1740763856703" duration="1155000" />
+      <workItem from="1740763856703" duration="2344000" />
+      <workItem from="1740857095586" duration="7260000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -299,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740761042144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="solution 283">
+      <option name="closed" value="true" />
+      <created>1740799144849</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740799144849</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +329,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="regex problem started" />
     <MESSAGE value="solution 75" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 75" />
+    <MESSAGE value="solution 283" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 283" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
@@ -396,6 +407,76 @@
           <url>file://$PROJECT_DIR$/src/main/java/solutions/numbers_division/Solution.java</url>
           <line>48</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/solutions/merge_intervals_56/SolutionTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/solutions/merge_intervals_56/SolutionTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/solutions/merge_intervals_56/SolutionTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
