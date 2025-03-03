@@ -23,10 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="solution 283">
-      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/merge_intervals_56/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/solutions/valid_palindrome_125/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/solutions/valid_palindrome_125/SolutionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/solutions/move_zeroes_283/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/solutions/move_zeroes_283/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +85,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.SolutionTest.executor": "Debug",
+    "JUnit.SolutionTest.isPalindrome.executor": "Run",
     "JUnit.SolutionTest.merge (1).executor": "Debug",
     "JUnit.SolutionTest.merge.executor": "Debug",
     "JUnit.SolutionTest.moveZeroes.executor": "Debug",
@@ -95,7 +96,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250301_0001",
+    "com.google.cloudcode.ide_session_index": "20250303_0000",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
@@ -126,14 +127,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="solutions.valid_palindrome_125" />
       <recent name="solutions.merge_intervals_56" />
       <recent name="solutions.move_seroes_283" />
       <recent name="solutions.numbers_division" />
       <recent name="solutions.restore_ip_address_93" />
-      <recent name="solutions.hamming_distance_461" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.merge (1)">
+  <component name="RunManager" selected="JUnit.SolutionTest.isPalindrome">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -143,6 +144,37 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algoritmica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.valid_palindrome_125.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="solutions.valid_palindrome_125" />
+      <option name="MAIN_CLASS_NAME" value="solutions.valid_palindrome_125.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algoritmica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.valid_palindrome_125.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="solutions.valid_palindrome_125" />
+      <option name="MAIN_CLASS_NAME" value="solutions.valid_palindrome_125.SolutionTest" />
+      <option name="METHOD_NAME" value="isPalindrome(java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -195,45 +227,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.testSolutionHappyNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-algoritmica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solutions.numbers_division.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="solutions.numbers_division" />
-      <option name="MAIN_CLASS_NAME" value="solutions.numbers_division.SolutionTest" />
-      <option name="METHOD_NAME" value="testSolutionHappyNumber(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolutionTest.testSolutionUnique" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-algoritmica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solutions.numbers_division.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="solutions.numbers_division" />
-      <option name="MAIN_CLASS_NAME" value="solutions.numbers_division.SolutionTest" />
-      <option name="METHOD_NAME" value="testSolutionUnique(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.isPalindrome" />
+        <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="JUnit.SolutionTest.merge (1)" />
         <item itemvalue="JUnit.SolutionTest.merge" />
         <item itemvalue="JUnit.SolutionTest.moveZeroes" />
-        <item itemvalue="JUnit.SolutionTest.testSolutionUnique" />
-        <item itemvalue="JUnit.SolutionTest.testSolutionHappyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +269,7 @@
       <workItem from="1740654845248" duration="4799000" />
       <workItem from="1740763856703" duration="2344000" />
       <workItem from="1740857095586" duration="7260000" />
+      <workItem from="1740988883905" duration="1508000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -477,6 +478,36 @@
           <url>file://$PROJECT_DIR$/src/main/java/solutions/merge_intervals_56/Solution.java</url>
           <line>20</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/valid_palindrome_125/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/valid_palindrome_125/Solution.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/valid_palindrome_125/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/solutions/valid_palindrome_125/SolutionTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/valid_palindrome_125/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/solutions/valid_palindrome_125/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
