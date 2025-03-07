@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="solution 643" />
+    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="solution 1732">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +94,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250305_0001",
+    "com.google.cloudcode.ide_session_index": "20250306_0000",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
@@ -236,8 +238,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
       </set>
     </attachedChunks>
   </component>
@@ -268,6 +270,7 @@
       <workItem from="1740988883905" duration="2389000" />
       <workItem from="1741099259889" duration="4000" />
       <workItem from="1741159335503" duration="3758000" />
+      <workItem from="1741249402305" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -324,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741162475061</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="solution 1732">
+      <option name="closed" value="true" />
+      <created>1741249547263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741249547263</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +357,8 @@
     <MESSAGE value="solution 75" />
     <MESSAGE value="solution 283" />
     <MESSAGE value="solution 643" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 643" />
+    <MESSAGE value="solution 1732" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 1732" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
