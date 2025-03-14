@@ -1,6 +1,5 @@
 package solutions.max_depth_of_binary_tree;
 
-//  Definition for a binary tree node.
 class TreeNode {
     int val;
     TreeNode left;
