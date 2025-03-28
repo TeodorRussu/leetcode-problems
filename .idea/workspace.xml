@@ -22,7 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="solution 1732">
+    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="reverse linked list">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,18 +95,21 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250306_0000",
+    "com.google.cloudcode.ide_session_index": "20250327_0001",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/teodor.russu/leetcode-problems/src/test/java/solutions",
+    "last_opened_file_path": "/Users/teodor.russu/IdeaProjects/personal/leetcode-problems/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -238,8 +242,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
       </set>
     </attachedChunks>
   </component>
@@ -271,6 +275,16 @@
       <workItem from="1741099259889" duration="4000" />
       <workItem from="1741159335503" duration="3758000" />
       <workItem from="1741249402305" duration="1293000" />
+      <workItem from="1741943731428" duration="13000" />
+      <workItem from="1741943753873" duration="15000" />
+      <workItem from="1741943786545" duration="154000" />
+      <workItem from="1741943954909" duration="624000" />
+      <workItem from="1741977273397" duration="52000" />
+      <workItem from="1741977328340" duration="42000" />
+      <workItem from="1741977384826" duration="8000" />
+      <workItem from="1741977447010" duration="2573000" />
+      <workItem from="1742808077781" duration="2471000" />
+      <workItem from="1743064498460" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -335,7 +349,39 @@
       <option name="project" value="LOCAL" />
       <updated>1741249547263</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="depth tree">
+      <option name="closed" value="true" />
+      <created>1741977504803</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741977504803</updated>
+    </task>
+    <task id="LOCAL-00010" summary="find node in a tree">
+      <option name="closed" value="true" />
+      <created>1742196475408</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742196475408</updated>
+    </task>
+    <task id="LOCAL-00011" summary="n-th tribonacci number">
+      <option name="closed" value="true" />
+      <created>1742808142561</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742808142561</updated>
+    </task>
+    <task id="LOCAL-00012" summary="reverse linked list">
+      <option name="closed" value="true" />
+      <created>1743064589770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743064589771</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,7 +404,11 @@
     <MESSAGE value="solution 283" />
     <MESSAGE value="solution 643" />
     <MESSAGE value="solution 1732" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 1732" />
+    <MESSAGE value="depth tree" />
+    <MESSAGE value="find node in a tree" />
+    <MESSAGE value="n-th tribonacci number" />
+    <MESSAGE value="reverse linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse linked list" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
