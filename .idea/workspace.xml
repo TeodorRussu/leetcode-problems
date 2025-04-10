@@ -22,9 +22,45 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="reverse linked list">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="11214efb-f83f-4653-a8c4-94861c6e777a" name="Default Changelist" comment="max number of vovels">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/Atoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/Atoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/ContainerWithMostWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/MedianOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/MedianOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/RegExMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/RegExMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/ReverseInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/ReverseInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/ZigZagConvertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/ZigZagConvertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/hamming_distance_461/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/hamming_distance_461/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/letter_combination_phone_number/NumberMapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/letter_combination_phone_number/NumberMapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/letter_combination_phone_number/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/letter_combination_phone_number/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/merge_intervals_56/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/merge_intervals_56/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/merge_strings_alternatively_75/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/merge_strings_alternatively_75/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/move_zeroes_283/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/move_zeroes_283/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/numbers_division/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/numbers_division/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/restore_ip_address_93/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/restore_ip_address_93/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/solutions/valid_palindrome_125/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/solutions/valid_palindrome_125/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/AtoiTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/AtoiTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/ContainerWithMostWaterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/ContainerWithMostWaterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/LongestSubstringWithoutRepeatingCharactersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/LongestSubstringWithoutRepeatingCharactersTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/MedianOfTwoArraysTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/MedianOfTwoArraysTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/RegExMatchingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/RegExMatchingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/RegExTestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/RegExTestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/RemoveDuplicatesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/RemoveDuplicatesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/ReverseIntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/ReverseIntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/ZigZagConvertionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/ZigZagConvertionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/hamming_distance_461/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/hamming_distance_461/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/letter_combination_phone_number/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/letter_combination_phone_number/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/merge_intervals_56/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/merge_intervals_56/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/merge_strings_alternatively_75/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/merge_strings_alternatively_75/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/move_zeroes_283/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/move_zeroes_283/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/numbers_division/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/numbers_division/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/restore_ip_address_93/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/restore_ip_address_93/SolutionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/solutions/valid_palindrome_125/SolutionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/solutions/valid_palindrome_125/SolutionTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +87,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -86,6 +122,7 @@
   "keyToString": {
     "JUnit.SolutionTest.executor": "Debug",
     "JUnit.SolutionTest.isPalindrome.executor": "Run",
+    "JUnit.SolutionTest.maxVowels.executor": "Debug",
     "JUnit.SolutionTest.merge (1).executor": "Debug",
     "JUnit.SolutionTest.merge.executor": "Debug",
     "JUnit.SolutionTest.moveZeroes.executor": "Debug",
@@ -95,7 +132,7 @@
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20250327_0001",
+    "com.google.cloudcode.ide_session_index": "20250407_0001",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
@@ -129,14 +166,14 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="solutions.max_vovels_in_substring" />
       <recent name="solutions.valid_palindrome_125" />
       <recent name="solutions.merge_intervals_56" />
       <recent name="solutions.move_seroes_283" />
       <recent name="solutions.numbers_division" />
-      <recent name="solutions.restore_ip_address_93" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SolutionTest.isPalindrome">
+  <component name="RunManager" selected="JUnit.SolutionTest.maxVowels">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -181,6 +218,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest.maxVowels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode-algoritmica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.max_vovels_in_substring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="solutions.max_vovels_in_substring" />
+      <option name="MAIN_CLASS_NAME" value="solutions.max_vovels_in_substring.SolutionTest" />
+      <option name="METHOD_NAME" value="maxVowels" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionTest.merge (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode-algoritmica" />
       <extension name="coverage">
@@ -213,29 +266,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionTest.moveZeroes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode-algoritmica" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="solutions.move_zeroes_283.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="solutions.move_seroes_283" />
-      <option name="MAIN_CLASS_NAME" value="solutions.move_zeroes_283.SolutionTest" />
-      <option name="METHOD_NAME" value="moveZeroes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.maxVowels" />
         <item itemvalue="JUnit.SolutionTest.isPalindrome" />
         <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="JUnit.SolutionTest.merge (1)" />
         <item itemvalue="JUnit.SolutionTest.merge" />
-        <item itemvalue="JUnit.SolutionTest.moveZeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +322,9 @@
       <workItem from="1741977447010" duration="2573000" />
       <workItem from="1742808077781" duration="2471000" />
       <workItem from="1743064498460" duration="1541000" />
+      <workItem from="1743152144064" duration="662000" />
+      <workItem from="1743405331946" duration="1280000" />
+      <workItem from="1744012592742" duration="1153000" />
     </task>
     <task id="LOCAL-00001" summary="regex problem started">
       <created>1576770947491</created>
@@ -381,7 +421,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743064589771</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="unique number of occurences check">
+      <option name="closed" value="true" />
+      <created>1743405401823</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743405401823</updated>
+    </task>
+    <task id="LOCAL-00014" summary="max number of vovels">
+      <option name="closed" value="true" />
+      <created>1744012957118</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744012957118</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +464,9 @@
     <MESSAGE value="find node in a tree" />
     <MESSAGE value="n-th tribonacci number" />
     <MESSAGE value="reverse linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse linked list" />
+    <MESSAGE value="unique number of occurences check" />
+    <MESSAGE value="max number of vovels" />
+    <option name="LAST_COMMIT_MESSAGE" value="max number of vovels" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
